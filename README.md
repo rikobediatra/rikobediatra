@@ -4,6 +4,12 @@ Perkenalkan nama saya **Riko Bediatra**.\
 
 Saya seorang **Mahasiswa Informatika** di [Universitas Islam Indonesia](https://informatics.uii.ac.id/).\
 
+<p align="left">
+<a href="https://github.com/rikobediatra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rikobediatra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rikobediatra&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **rikobediatra/rikobediatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
