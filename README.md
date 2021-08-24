@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Riko Bediatra**.\
+Perkenalkan nama saya **Riko Bediatra**.
 
-Saya seorang **Mahasiswa Informatika** di [Universitas Islam Indonesia](https://informatics.uii.ac.id/).\
+Saya seorang **Mahasiswa Informatika** di [Universitas Islam Indonesia](https://informatics.uii.ac.id/).
 
 <p align="left">
 <a href="https://github.com/rikobediatra">
