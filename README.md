@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Riko Bediatra**.
 
-Saya seorang **Mahasiswa Informatika** di [Universitas Islam Indonesia](https://informatics.uii.ac.id/).
+I am excited to embark on my professional journey and contribute my skills and knowledge to the industry. Throughout my academic career, I have gained a solid foundation in front-end development by studying various programming languages such as HTML, CSS, JavaScript, and React.
 
 <p align="left">
 <a href="https://github.com/rikobediatra">
